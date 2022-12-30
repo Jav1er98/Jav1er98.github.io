@@ -28,7 +28,29 @@ layout: default
       <div class="col-lg-8 col-md-10 mx-auto">
 
         {{ content }}
+        <!-- Home Portfolio List -->
+        {% for portfolio in site.portfolio limit : 5 %}
 
+        <article class="post-preview">
+          <a href="{{ portfolio.url | prepend: site.baseurl | replace: '//', '/' }}">
+            <h2 class="post-title">{{ portfolio.title }}</h2>
+            {% if portfolio.subtitle %}
+            <h3 class="post-subtitle">{{ portfolio.subtitle }}</h3>
+            {% else %}
+            <h3 class="post-subtitle">{{ portfolio.excerpt | strip_html | truncatewords: 15 }}</h3>
+            {% endif %}
+          </a>
+          <p class="post-meta">
+            {{ portfolio.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=portfolio.content %}            
+          </p>
+        </article>
+
+        <hr>
+
+        {% endfor %}
+        <div class="clearfix">
+          <a class="btn btn-primary float-right" href="{{"/portfolio" | relative_url }}">View All Portfolio &rarr;</a>
+        </div>
         <!-- Home Post List -->
         {% for post in site.posts limit : 5 %}
 
@@ -41,13 +63,7 @@ layout: default
             <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %}
           </a>
-          <p class="post-meta">Posted by
-            {% if post.author %}
-            {{ post.author }}
-            {% else %}
-            {{ site.author }}
-            {% endif %}
-            on
+          <p class="post-meta">
             {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
           </p>
         </article>
@@ -60,7 +76,6 @@ layout: default
         <div class="clearfix">
           <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
         </div>
-
       </div>
     </div>
   </div>
