@@ -6,43 +6,34 @@ background: '/img/posts/DDV/1366_2000.jpeg'
 ---
 
 
-We especially mention Link's Awakening inherited what was learned in the saga, adding part of that metroidvania mechanic that had been going strong for a long time, to focus almost all of the gameplay on the spatial puzzles of its dungeons.
+Dungeon level design is a key element in "The Legend of Zelda" video game series and "Link's Awakening" in particular. Each dungeon level presents unique challenges and puzzles that must be solved in order to progress through the game's story and defeat the final boss of the dungeon.
 
 ![gameplay](\img\posts\DDV\mazmorra_gameplay.jpeg)
 
-And since then, perhaps removing this recent Zelda Breath of the Wild with a much more hegemonic open world section, the structure has remained practically unchanged.
+In addition to providing challenges and puzzles to advance the game's story, dungeon design is also important because it helps set the tone and mood of the game. Each dungeon has its own unique environment and visual design that contribute to the overall feel of the game.
 
-You enter the dungeon.
+For example, the Elephant Dungeon, which is located in an oasis, has a calmer and more relaxed atmosphere than the Dragon Dungeon, which is located in a volcano and has a more intense and dangerous atmosphere. These dungeon layouts help to create a more immersive gaming experience and immerse the player in the game world.
 
-1. You go through as many rooms as you can, hopefully collecting a small key, until there is no more accessible room.
+Furthermore, dungeon design is also important because it helps set the difficulty of the game. As you progress through the story of , the dungeons become increasingly difficult and present more complicated puzzles and obstacles. This makes the game challenging and exciting to play and keeps you motivated to further progress through the game.
 
-2. You go back, and with that key, you can open one of the closed doors that will give you access to other extra rooms in the dungeon, where you will find either the map, or the pickaxe (an object that allows you to activate some statues that in turn they will give you clues to solve other puzzles or know how to finish off the final boss), or an object, or the big key that opens the door of the boss of the dungeon.
+Another important aspect is the way they are integrated into the game's story and plot. Each dungeon represents a step in Link's adventure and his quest to recover the Triforces and save Koholint Island.
 
-3. You repeat points two and three until you find the dungeon object, which will allow you to perform a new action that, coincidentally, you will need to access those other rooms that until now were inaccessible even with small keys.
+![mazmorra](\img\posts\DDV\mazmorra-01-cueva-tail.jpg)
 
-4. And you repeat points three and four until you actually reach the dungeon boss's door with his key.
+As the story progresses, Link meets new characters and learns more about the world in which he finds himself. This gives the story a sense of progression and makes the game more immersive.
 
-5. You defeat him, get the appropriate quest item (in Zelda Link's Awakening the music instruments), and automatically leave the dungeon.
+The dungeon design integrates into the game's plot in a very interesting way. Each dungeon is represented by a musical instrument, and by retrieving each of the Triforces, Link learns a new tune that will help him defeat the dungeon's final boss and progress through the story. This mechanic is unique and adds an element of music and melody to the gaming experience.
 
-    ![mazmorra](\img\posts\DDV\mazmorra-01-cueva-tail.jpg)
-
-There is a clear progression from the first time you enter the level, and the following iterations already with some object or some knowledge (pick) that allows us to solve the puzzles and continue delving into the dungeon.
-
-Little by little, the dungeons become more complicated, adding more elements and also including mechanics from previous dungeons or objects that we should already have to complete them, so that due to the level design itself, the gameplay gradually rewards the player with an abstract system. of progression, feedback to the gameplay with the new mechanics acquired and/or learned (now that you can jump, you can cross these small chasms, now that you have the grappling hook you can hook on ledges and cross larger empty spaces, now that you have the armband of strength you can lift these stones that previously blocked your way...).
-
-This same level design that we saw in the dungeons has also been transferred to the world map itself.
+Each dungeon is themed around a specific item or concept. For example, the Sea Dungeon is themed around water and features puzzles based on using water and controlling its flow. The Clock Dungeon is themed around time and features puzzles based around the use of the clock and time management.
 
 ![mapa](\img\posts\DDV\mapa-general-nombres.jpg)
 
-Not only because of the fact that, as one would expect, we cannot access the following dungeons before completing the dungeon that we have. For that, the game leads us by the hand of that owl that tells us about the next objective, and the inclusion of those phone booths that allow us to talk to him again in case, as it happened to me, you don't play it often , and therefore you forget what you had to do.
-
+This thematic approach to dungeon design not only adds variety and fun to the game, but also helps set the tone and mood for each dungeon. Each dungeon has its own unique environment and visual design that contribute to the overall feel of the game.
 But also, because of how the map is designed, it opens according to the abilities that you obtain from the objects that you get in each dungeon.
 
-It is no longer that by history you are confined to an area. Really, and as soon as you have a bit of expertise, it is possible to access areas that should not yet be available based on ingenuity (take advantage of the jump with a charge to save some spaces destined for when you have the hook, for example), or that by history the game guides you and discourages you from exploring further. It is that the map itself is designed so that you have to go through it several times, pointing on it those places where you have not been able to continue or solve the puzzle since clearly you must be missing something.
-
+The items and abilities you gain throughout the game are used. As you progress through the game, you gain new items and abilities that allow you to solve puzzles and overcome obstacles in dungeons. These items and abilities are not only useful for progressing in dungeons, but also allow you to explore and discover hidden secrets in the game.
 That in its design it maintains the same structure of accessible rooms as inside the dungeons, but with a more open and equally controlled development.
 
-What was not the first? Of course not. We already had it present in games like Castlevania or Metroid.
+For example, the harpoon allows you to go through obstacles and reach otherwise inaccessible areas. The Book of Charms allows you to cast spells and use magic to solve puzzles and defeat enemies. These items and abilities are essential for progressing in the game and give you a lot of variety and options when it comes to playing.
 
-But it seems like a great example of a level design studio to me. From the maxim that the game, above all, must be playable, in those times when tutorials were conspicuous by their absence, and games had to last us a long time, breaking our heads.
-
+In short, the dungeon level design in "Link's Awakening" is a key element that contributes to the quality and playability of the game. Each dungeon level presents unique challenges and puzzles that must be solved in order to progress through the game's story and defeat the final boss of the dungeon. Dungeon design is also important because it helps set the tone and mood of the game, with each dungeon having its own unique vibe and visual design.
