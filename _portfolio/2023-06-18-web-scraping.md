@@ -2,7 +2,7 @@
 layout: post
 title: "Arcade game."
 subtitle: "My Arcade Game"
-background: '/img/posts/MTD/Captura6.png'
+background: '/img/posts/MTD/Captura7.png'
 ---
 
 ## Final Practice: Arcade game prototype.
@@ -12,13 +12,13 @@ TThe project  is a 2D Arcade space shooter game that provides players with an im
 
 ## Sprites
 
- ![Paso 1](/img/posts/FDV/Captura1.png)
+ ![Paso 1](/img/posts/MTD/Captura1.png)
  
- ![Paso 1](/img/posts/FDV/Captura2.png)
+ ![Paso 1](/img/posts/MTD/Captura2.png)
 
- ![Paso 1](/img/posts/FDV/Captura3.png)
+ ![Paso 1](/img/posts/MTD/Captura3.png)
 
- ![Paso 1](/img/posts/FDV/Captura4.png)
+ ![Paso 1](/img/posts/MTD/Captura4.png)
  
  
 ## TileMap
@@ -30,15 +30,15 @@ TThe project  is a 2D Arcade space shooter game that provides players with an im
  
   Main Menu
  
-  ![Paso 3](/img/posts/FDV/Captura5.png)
+  ![Paso 3](/img/posts/MTD/Captura5.png)
  
   Gameplay
  
-  ![Paso 3](/img/posts/FDV/Captura6.png)
+  ![Paso 3](/img/posts/MTD/Captura7.png)
  
   Game Over
  
-  ![Paso 3](/img/posts/FDV/Captura7.png)
+  ![Paso 3](/img/posts/MTD/Captura6.png)
  
  
 ## Coins
