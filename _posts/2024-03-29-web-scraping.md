@@ -2,7 +2,7 @@
 layout: post
 title: "MY LITTLE PONY: A Zephyr Heights Mystery"
 subtitle: "Drakhar Studio"
-background: '/img/posts/PDV/mlp2_2.jpg'
+background: '/img/posts/PDV/mlp2_2.png'
 ---
 
 `C#, AA, Unity`
