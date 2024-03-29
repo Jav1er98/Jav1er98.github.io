@@ -5,9 +5,6 @@ subtitle: "Drakhar Studio"
 background: '/img/posts/DDV/crybabies_portada.jpg'
 ---
 
-<div style="background-color: lightblue; padding: 10px;">
-    <p style="color: black; font-weight: bold;">Drakhar Studio</p>
-</div>
 `C#, AA, Unity`
 
 [Official Website](https://www.mergegames.com/games/cry-babies-magic-tears-the-big-game/)
