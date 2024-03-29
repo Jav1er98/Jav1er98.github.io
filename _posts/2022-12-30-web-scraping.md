@@ -14,7 +14,7 @@ Join against the chaos in a new open-world adventure in which the Justice League
 DC Justice League: Cosmic Chaos lets you play as you want in action-packed missions, grueling combat and challenging quests! Fly through Happy Harbor with Superman or take to the skies with Wonder Woman - the choice is yours! 
 
 
-[![DC's Justice League: Cosmic Chaos](https://img.youtube.com/vi/iI9nvbJIi4/0.jpg)](https://www.youtube.com/watch?v=-iI9nvbJIi4){:target="_blank"}
+[![DC's Justice League: Cosmic Chaos](https://img.youtube.com/vi/-iI9nvbJIi4/0.jpg)](https://www.youtube.com/watch?v=-iI9nvbJIi4){:target="_blank"}
 
 ## Development of the Game
 
