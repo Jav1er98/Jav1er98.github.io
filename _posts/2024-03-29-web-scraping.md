@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MY LITTLE PONY: A Zephyr Heights Mystery"
-subtitle: "Drakhar Studio"
+subtitle: "Drakhar Studio ![Drakhar Studio Logo](/img/posts/DDV/Drakhar_logo.png)"
 background: '/img/posts/PDV/mlp2_2.png'
 ---
 
