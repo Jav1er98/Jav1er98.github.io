@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DC's Justice League: Cosmic Chaos"
-subtitle: "PHL Collective"
+subtitle: "<img src='/img/posts/DDV/phl_logo.png' alt='PHL Logo' style='width: 80px; float: left; margin-right: 10px;'> PHL Collective"
 background: '/img/posts/PDV/dcjusticeleaguecosmichaos.jpg'
 ---
 
