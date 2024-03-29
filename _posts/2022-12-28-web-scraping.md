@@ -25,18 +25,18 @@ Trailer:
 
 ---
 
-### Audio and Sound Effects Implementation
+### 🔊 Audio and Sound Effects Implementation
 
-We dedicated considerable effort to implementing immersive audio and sound effects to enhance the gameplay experience. From character interactions to environmental cues, every sound was meticulously crafted to bring the world of Cry Babies to life.
+I worked within the game audio team, following the directives of our audio director to ensure the implementation of game effects, music, and cinematics along with their respective dialogues and effects. We meticulously crafted each element to enhance the overall gaming experience, adhering closely to the creative vision set forth by our team leader.
 
-### Bug Fixes and Gameplay Improvements
+### 🐛 Bug Fixes and Gameplay Improvements
 
-Throughout the development process, we prioritized addressing bugs and making significant improvements to the overall gameplay experience. Player feedback was invaluable in identifying areas for enhancement, resulting in a more polished and enjoyable game.
+Throughout the development process, we prioritized addressing bugs and making significant improvements to the overall gameplay experience. 
 
-### Porting for Steam
+### 🎮 Porting for Steam
 
-In order to reach a wider audience and provide players with more options for accessing the game, we successfully ported Cry Babies Magic Tears: The Big Game to the Steam platform. This involved adapting the game to Steam's requirements and integrating Steam features such as achievements and cloud saves.
+I was in charge of the migration of Cry Babies Magic Tears: The Big Game to the Steam platform. This involved adapting the game to Steam requirements and integrating Steam features such as achievements and cloud saves.
 
-### Multi-Platform Testing
+### 🌐 Multi-Platform Testing
 
-Ensuring the stability and performance of the game across various platforms was paramount. We conducted extensive testing on different devices and operating systems, including but not limited to PC, mobile, and consoles. This comprehensive testing process allowed us to deliver a seamless gaming experience regardless of the platform.
+Ensuring the stability and performance of the game across multiple platforms was paramount. Since this was a project launched for all consoles on the market. We conducted extensive testing on these consoles. This exhaustive testing process allowed us to deliver a smooth gameplay experience regardless of the platform.
