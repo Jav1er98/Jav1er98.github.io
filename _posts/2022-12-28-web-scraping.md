@@ -7,7 +7,7 @@ background: '/img/posts/DDV/crybabies_portada.jpg'
 
 `C#, AA, Unity`
 
-[Official Website](https://www.mergegames.com/games/cry-babies-magic-tears-the-big-game/)
+[Official Website](https://www.mergegames.com/games/cry-babies-magic-tears-the-big-game/){:target="_blank"}
 
 ¡Your favorite Cry Babies are ready to play!
 
