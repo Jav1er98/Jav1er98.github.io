@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The level design in Zelda's dungeons"
-subtitle: "How important is a good level design"
-background: '/img/posts/DDV/1366_2000.jpeg'
+title: "Cry Babies Magic Tears: The Big Game"
+subtitle: "Drakhar Studio"
+background: '/img/posts/DDV/crybabies_portada.jpg'
 ---
 
 
