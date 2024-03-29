@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cry Babies Magic Tears: The Big Game"
-subtitle: "Drakhar Studio"
+subtitle: "<img src='/img/posts/DDV/Drakhar_logo.png' alt='Drakhar Studio Logo' style='width: 100px; float: left; margin-right: 10px;'> Drakhar Studio"
 background: '/img/posts/DDV/crybabies_portada.jpg'
 ---
 
