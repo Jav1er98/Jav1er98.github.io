@@ -6,7 +6,15 @@ background: '/img/posts/DDV/crybabies_portada.jpg'
 ---
 
 
-Dungeon level design is a key element in "The Legend of Zelda" video game series and "Link's Awakening" in particular. Each dungeon level presents unique challenges and puzzles that must be solved in order to progress through the game's story and defeat the final boss of the dungeon.
+`C# AA`
+[Official Website](https://www.mergegames.com/games/cry-babies-magic-tears-the-big-game/)
+¡Your favorite Cry Babies are ready to play!
+
+The Big Game is a fun and exciting adventure, perfect for kids. Join Lady, Coney, Dreamy, and their friends in a new adventure where they'll participate in an exciting multi-phase tournament to win the legendary Golden Pacifier.
+
+FEATURES BASED ON THE CARTOON!
+
+Meet and play with 15 popular Cry Babies. Explore familiar places, from Bottle Valley to Fantasy Mountain, Tutti Frutti Bay, Icy World, and a new planet called Planet Tear!
 
 ![gameplay](\img\posts\DDV\mazmorra_gameplay.jpeg)
 
