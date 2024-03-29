@@ -19,7 +19,7 @@ Meet and play with 15 popular Cry Babies. Explore familiar places, from Bottle V
 
 Trailer:
 
-[![Cry Babies Magic Tears: The Big Game](https://img.youtube.com/vi/9Kg-96IlAKY/0.jpg)](https://www.youtube.com/watch?v=9Kg-96IlAKY)
+[![Cry Babies Magic Tears: The Big Game](https://img.youtube.com/vi/9Kg-96IlAKY/0.jpg)](https://www.youtube.com/watch?v=9Kg-96IlAKY){:target="_blank"}
 
 In addition to providing challenges and puzzles to advance the game's story, dungeon design is also important because it helps set the tone and mood of the game. Each dungeon has its own unique environment and visual design that contribute to the overall feel of the game.
 
