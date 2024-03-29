@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MY LITTLE PONY: A Zephyr Heights Mystery"
-subtitle: "<img src='/img/posts/DDV/Drakhar_logo.png' alt='Drakhar Studio Logo' style='width: 50px; float: left; margin-right: 30px;'> Drakhar Studio"
+subtitle: "<img src='/img/posts/DDV/Drakhar_logo.png' alt='Drakhar Studio Logo' style='width: 80px; float: left; margin-right: 10px;'> Drakhar Studio"
 background: '/img/posts/PDV/mlp2_2.png'
 ---
 
