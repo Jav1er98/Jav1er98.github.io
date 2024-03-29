@@ -21,8 +21,8 @@ DC Justice League: Cosmic Chaos lets you play as you want in action-packed missi
 ---
 ### 🐞 Bug Detection and Resolution Across Multiple Platforms
 
-As part of the development team, I was responsible for detecting and resolving bugs across various platforms including PS5, PS4, Nintendo Switch, Xbox One, and Steam. Through rigorous testing and troubleshooting, we ensured a smooth and error-free gaming experience for players on all supported devices.
+My primary responsibility was the detection and resolution of critical bugs that could completely compromise a playthrough, requiring players to restart the game from scratch. These bugs represented a significant risk to the user experience and necessitated immediate and effective solutions to ensure continuous and satisfactory gameplay.
 
 ### 🛠️ Patch Deployment and Updates
 
-I played a crucial role in the release of patches and updates for "DC Justice League: Caos Cósmico". This involved analyzing feedback from players, identifying issues, and implementing necessary fixes and improvements. Our goal was to continuously enhance the game's performance and address any issues promptly to maintain player satisfaction and engagement.
+Once critical bugs were identified and resolved, I spearheaded the patch deployment process for all compatible consoles. This involved coordinating with development teams and ensuring that updates were rolled out in a timely and efficient manner across all platforms. Our goal was to provide players with an enhanced and bug-free gaming experience, even after the initial launch of the game in the market.
