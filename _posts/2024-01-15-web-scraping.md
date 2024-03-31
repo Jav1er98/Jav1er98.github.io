@@ -4,6 +4,8 @@ title: "Cry Babies Magic Tears: The Big Game"
 subtitle: "<img src='/img/posts/DDV/Drakhar_logo.png' alt='Drakhar Studio Logo' style='width: 100px; float: left; margin-right: 10px;'> Drakhar Studio"
 background: '/img/posts/DDV/crybabies_portada.jpg'
 gif: '/img/posts/DDV/cry_babies.gif'   # Aquí añade la ruta del GIF
+gif_size: '200px'                          # Ajusta el tamaño del GIF
+gif_position: 'right'                      # Ajusta la posición del GIF (left, right, center)
 ---
 
 `C#, AA, Unity`
@@ -17,11 +19,6 @@ The Big Game is a fun and exciting adventure, perfect for kids. Join Lady, Coney
 FEATURES BASED ON THE CARTOON!
 
 Meet and play with 15 popular Cry Babies. Explore familiar places, from Bottle Valley to Fantasy Mountain, Tutti Frutti Bay, Icy World, and a new planet called Planet Tear!
-
-<div style="position: relative;">
-  <img src="{{ page.gif | prepend: site.baseurl | replace: '//', '/' }}" alt="GIF" style="width: 100%; max-width: 400px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-</div>
-
 
 Trailer:
 
