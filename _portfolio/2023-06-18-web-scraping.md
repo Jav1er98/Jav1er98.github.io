@@ -44,4 +44,4 @@ The project  is a 2D Arcade space shooter game that provides players with an imm
 
 ## Video
 If you want more details of the prototype, click here:
-[![Nombre del video](https://img.youtube.com/vi/qFBLtNjlTq4/0.jpg)]()
+[![Nombre del video](https://img.youtube.com/vi/ug6puB1jesQ/0.jpg)](https://youtu.be/ug6puB1jesQ)
