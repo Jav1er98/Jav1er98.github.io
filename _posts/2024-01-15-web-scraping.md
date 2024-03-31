@@ -3,9 +3,8 @@ layout: post
 title: "Cry Babies Magic Tears: The Big Game"
 subtitle: "<img src='/img/posts/DDV/Drakhar_logo.png' alt='Drakhar Studio Logo' style='width: 100px; float: left; margin-right: 10px;'> Drakhar Studio"
 background: '/img/posts/DDV/crybabies_portada.jpg'
-gif: '/img/posts/DDV/cry_babies.gif'   # Aquí añade la ruta del GIF
-gif_size: '50px'                          # Ajusta el tamaño del GIF
-gif_position: 'right'                      # Ajusta la posición del GIF (left, right, center)
+gif: '/img/posts/DDV/cry_babies2.gif'   # Aquí añade la ruta del GIF
+
 ---
 
 `C#, AA, Unity`
