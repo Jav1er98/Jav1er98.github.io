@@ -18,6 +18,11 @@ FEATURES BASED ON THE CARTOON!
 
 Meet and play with 15 popular Cry Babies. Explore familiar places, from Bottle Valley to Fantasy Mountain, Tutti Frutti Bay, Icy World, and a new planet called Planet Tear!
 
+<div style="position: relative;">
+  <img src="{{ page.gif | prepend: site.baseurl | replace: '//', '/' }}" alt="GIF" style="width: 100%; max-width: 400px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+</div>
+
+
 Trailer:
 
 [![Cry Babies Magic Tears: The Big Game](https://img.youtube.com/vi/9Kg-96IlAKY/0.jpg)](https://www.youtube.com/watch?v=9Kg-96IlAKY){:target="_blank"}
