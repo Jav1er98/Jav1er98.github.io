@@ -3,6 +3,7 @@ layout: post
 title: "MY LITTLE PONY: A Zephyr Heights Mystery"
 subtitle: "<img src='/img/posts/DDV/Drakhar_logo.png' alt='Drakhar Studio Logo' style='width: 100px; float: left; margin-right: 10px;'> Drakhar Studio"
 background: '/img/posts/PDV/mlp2_2.png'
+gif: '/img/posts/DDV/mlp2.gif'   # Aquí añade la ruta del GIF
 ---
 
 `C#, AA, Unity`

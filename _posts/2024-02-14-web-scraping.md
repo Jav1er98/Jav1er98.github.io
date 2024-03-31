@@ -3,6 +3,7 @@ layout: post
 title: "DC's Justice League: Cosmic Chaos"
 subtitle: "<img src='/img/posts/DDV/phl_logo.png' alt='PHL Logo' style='width: 80px; float: left; margin-right: 10px;'> PHL Collective"
 background: '/img/posts/PDV/dcjusticeleaguecosmichaos.jpg'
+gif: '/img/posts/DDV/dcjusticeleague.gif'   # Aquí añade la ruta del GIF
 ---
 
 `C#, AA, Unity`
