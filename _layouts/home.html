@@ -28,6 +28,7 @@ layout: default
     <div class="col-lg-8 col-md-10 mx-auto">
 
       <!-- Home Post List -->
+      <h2 style="text-align: center; color: #333;">Professional Projects</h2>
       {% for post in site.posts limit: 5 %}
       <article class="post-preview">
         <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -56,6 +57,7 @@ layout: default
       </div>
 
       <!-- Home Portfolio List -->
+      <h2 style="text-align: center; color: #333;">Personal Work</h2>
       {% for portfolio in site.portfolio limit: 5 %}
       <article class="post-preview">
         <a href="{{ portfolio.url | prepend: site.baseurl | replace: '//', '/' }}">
